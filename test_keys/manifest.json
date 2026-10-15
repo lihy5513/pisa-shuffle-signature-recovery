@@ -1,0 +1,118 @@
+{
+  "mldsa": [
+    {
+      "index": 0,
+      "pk": "test_keys/mldsa/key00.pk.bin",
+      "pk_sha256": "595c9aa7e550b531fd9cd2773090f3758f81642c937a081b2b948735c94ebd10",
+      "sk": "test_keys/mldsa/key00.sk.bin",
+      "sk_sha256": "f2914ddb5725dd00ef3503f6989be66dad31c9ae2938b1e065ced9170412607b"
+    },
+    {
+      "index": 1,
+      "pk": "test_keys/mldsa/key01.pk.bin",
+      "pk_sha256": "81eff0d9179e5606be0ece064a569c0f76fbe86c386634343eddd0c577ac62e3",
+      "sk": "test_keys/mldsa/key01.sk.bin",
+      "sk_sha256": "ed2e109263adf06284db4738929ca12e7ffa2b7bb9186a53af9cf0c300d9cf78"
+    },
+    {
+      "index": 2,
+      "pk": "test_keys/mldsa/key02.pk.bin",
+      "pk_sha256": "876547624f731ac01a39f7c91ad1cb580e175445469b55f11f7c25d3c89cb350",
+      "sk": "test_keys/mldsa/key02.sk.bin",
+      "sk_sha256": "55e439aa4e259d08bae2cd7d3269f42705ba019f7bd44d2a42f0732af7d216cf"
+    },
+    {
+      "index": 3,
+      "pk": "test_keys/mldsa/key03.pk.bin",
+      "pk_sha256": "736e3f38b21ea06101a51faf85ee58f9624380cbe30cb71f7b250d561ea3acc3",
+      "sk": "test_keys/mldsa/key03.sk.bin",
+      "sk_sha256": "840bc5f4750e918688809fb10d809c22265e51466020b448d781a791fd0179d3"
+    },
+    {
+      "index": 4,
+      "pk": "test_keys/mldsa/key04.pk.bin",
+      "pk_sha256": "f19a22093a66e995b7aab1bb9b4c0bbe66894710731a768a2c2f6672b4bf6bed",
+      "sk": "test_keys/mldsa/key04.sk.bin",
+      "sk_sha256": "57b1cf0dc2c018376e66a2fd41f70034eabe990001dba53f96e27d8f66ef05c1"
+    },
+    {
+      "index": 5,
+      "pk": "test_keys/mldsa/key05.pk.bin",
+      "pk_sha256": "2d1cff76580f46d27051cb75c339962f93d1acb01a8acc6f75b4aa9cafd8f8e0",
+      "sk": "test_keys/mldsa/key05.sk.bin",
+      "sk_sha256": "6d26a6bf566fc7ec56ca02e7b8caaee576b4f6cd81711a65112001cce4c1375e"
+    },
+    {
+      "index": 6,
+      "pk": "test_keys/mldsa/key06.pk.bin",
+      "pk_sha256": "5347da4cbc4dcd69ca1c30bd95249a322c0b1b5cbd647ea17afdb3144b28186a",
+      "sk": "test_keys/mldsa/key06.sk.bin",
+      "sk_sha256": "1df3f69ef123340822a27e5aa094db90c93341137dc9a5c6d4d92b6af94842a6"
+    },
+    {
+      "index": 7,
+      "pk": "test_keys/mldsa/key07.pk.bin",
+      "pk_sha256": "8e0236b7c17541ced6cfd40f4cb89aacfbf790049bd2a447aa9721990558d91e",
+      "sk": "test_keys/mldsa/key07.sk.bin",
+      "sk_sha256": "d92a0f3a143088cd711469166cf09e3b79da0a514e477cac53c5a55e703c5326"
+    }
+  ],
+  "mlkem": [
+    {
+      "index": 0,
+      "pk": "test_keys/mlkem/key00.pk.bin",
+      "pk_sha256": "ed6e04c44a93aa64e4cd908ec8a718e559699c8f9bbaee15009f2df0bfb30099",
+      "sk": "test_keys/mlkem/key00.sk.bin",
+      "sk_sha256": "4f4e44ae0772619c3289576d54614a60702d0f0af585236c2e3ca834171e7e79"
+    },
+    {
+      "index": 1,
+      "pk": "test_keys/mlkem/key01.pk.bin",
+      "pk_sha256": "53d256256cd94ba65ca5aa922c16420279ced986d4e7f8f1746ca862cf69354b",
+      "sk": "test_keys/mlkem/key01.sk.bin",
+      "sk_sha256": "15811d60770ea0a07122ce46d5d640b58188782330447ed815c390cf2b704f80"
+    },
+    {
+      "index": 2,
+      "pk": "test_keys/mlkem/key02.pk.bin",
+      "pk_sha256": "1a501ec5238b5366081ef83290b57c4b130d8de42a84c881bcefa3538ecb5e5d",
+      "sk": "test_keys/mlkem/key02.sk.bin",
+      "sk_sha256": "d493bdf350e3b9eb251469126485b70dfc9e0c636193655da79737fa4b681038"
+    },
+    {
+      "index": 3,
+      "pk": "test_keys/mlkem/key03.pk.bin",
+      "pk_sha256": "4c7ceb6182fed9532cbb9408d6a6aa54ddb3647db815ba08c2bd940fd1ef166f",
+      "sk": "test_keys/mlkem/key03.sk.bin",
+      "sk_sha256": "c470e70e5b996b2cfb23404b1e1e1560f94acdafd25b93e5aca1a64554205845"
+    },
+    {
+      "index": 4,
+      "pk": "test_keys/mlkem/key04.pk.bin",
+      "pk_sha256": "fd63bb75f63750694a766d56bab8a2bfbb99e3555b9255957fcaa7ab20190066",
+      "sk": "test_keys/mlkem/key04.sk.bin",
+      "sk_sha256": "86d4bf5010464c9b2e1c707e4e695a9273d10d8beeae4eb36714fda4c79ca155"
+    },
+    {
+      "index": 5,
+      "pk": "test_keys/mlkem/key05.pk.bin",
+      "pk_sha256": "2c8d9d2395667bb17b40a029b0d24c387f19c17e7b7ae1879458ab96f835e243",
+      "sk": "test_keys/mlkem/key05.sk.bin",
+      "sk_sha256": "5c75204e8d3c77174b5423109a39ed200a161c7413f79e26e5da8f958927c336"
+    },
+    {
+      "index": 6,
+      "pk": "test_keys/mlkem/key06.pk.bin",
+      "pk_sha256": "c8c3fe34bceb243265b801f6c9a21b35ee9c2bce170e68109a06cc6426906da0",
+      "sk": "test_keys/mlkem/key06.sk.bin",
+      "sk_sha256": "26e4e289564a9d0f84eb2718d697b90bb8e87fa146e69be0b5a61b8f2a5cb2bc"
+    },
+    {
+      "index": 7,
+      "pk": "test_keys/mlkem/key07.pk.bin",
+      "pk_sha256": "21a4e4bae62e66b545d6abeb720ebf90a00942529ff9db21b0f8f73f1ca98c8c",
+      "sk": "test_keys/mlkem/key07.sk.bin",
+      "sk_sha256": "d7511cf5b2b3fd2f55bf4fdab3ba19a3fdbbf9aa7abbcbdee814a5edd3180811"
+    }
+  ]
+}

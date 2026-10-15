@@ -1,0 +1,128 @@
+{
+  "scope": "one secret polynomial/component per key",
+  "evaluation_only": "success rates were scored outside the artifact",
+  "schemes": {
+    "mldsa": {
+      "keys": 8,
+      "records_per_key": 2000,
+      "prefixes": [
+        {
+          "M": 500,
+          "hard_count": 0,
+          "posterior_count": 0
+        },
+        {
+          "M": 800,
+          "hard_count": 0,
+          "posterior_count": 0
+        },
+        {
+          "M": 1000,
+          "hard_count": 3,
+          "posterior_count": 1
+        },
+        {
+          "M": 1200,
+          "hard_count": 7,
+          "posterior_count": 3
+        },
+        {
+          "M": 1400,
+          "hard_count": 7,
+          "posterior_count": 5
+        },
+        {
+          "M": 1600,
+          "hard_count": 8,
+          "posterior_count": 8
+        },
+        {
+          "M": 1800,
+          "hard_count": 8,
+          "posterior_count": 8
+        },
+        {
+          "M": 2000,
+          "hard_count": 8,
+          "posterior_count": 8
+        }
+      ],
+      "solver_starts": [
+        1001,
+        1009,
+        1013,
+        1021,
+        1031
+      ],
+      "epochs_per_start": 3000,
+      "calibration_prefix": 500,
+      "calibration_included_in_M": true
+    },
+    "mlkem": {
+      "keys": 8,
+      "records_per_key": 2400,
+      "prefixes": [
+        {
+          "M": 500,
+          "hard_count": 0,
+          "posterior_count": 0
+        },
+        {
+          "M": 800,
+          "hard_count": 0,
+          "posterior_count": 0
+        },
+        {
+          "M": 1000,
+          "hard_count": 5,
+          "posterior_count": 2
+        },
+        {
+          "M": 1200,
+          "hard_count": 7,
+          "posterior_count": 4
+        },
+        {
+          "M": 1400,
+          "hard_count": 8,
+          "posterior_count": 6
+        },
+        {
+          "M": 1600,
+          "hard_count": 8,
+          "posterior_count": 7
+        },
+        {
+          "M": 1800,
+          "hard_count": 8,
+          "posterior_count": 7
+        },
+        {
+          "M": 2000,
+          "hard_count": 8,
+          "posterior_count": 7
+        },
+        {
+          "M": 2200,
+          "hard_count": 8,
+          "posterior_count": 7
+        },
+        {
+          "M": 2400,
+          "hard_count": 8,
+          "posterior_count": 8
+        }
+      ],
+      "solver_starts": [
+        1001,
+        1009,
+        1013,
+        1021,
+        1031
+      ],
+      "epochs_per_start": 3000,
+      "calibration_prefix": 500,
+      "calibration_included_in_M": true
+    }
+  }
+}
